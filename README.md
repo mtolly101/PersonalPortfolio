@@ -1,4 +1,4 @@
-# Full Stack Portfolio Generator
+# Full Stack Personal Portfolio Generator
 
 A dynamic full-stack web application for generating and managing portfolio content with user authentication.
 
